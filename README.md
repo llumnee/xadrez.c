@@ -20,7 +20,7 @@ Este projeto em linguagem C simula movimentações básicas no tabuleiro de xadr
 
 ```bash
 # Clone o repositório
-git clone (https://github.com/llumnee/xadrez.c)
+https://github.com/llumnee/xadrez.c
 
 # Entre no diretório
 cd xadrez.c

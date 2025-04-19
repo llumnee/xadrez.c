@@ -16,3 +16,17 @@ Este projeto em linguagem C simula movimentações básicas no tabuleiro de xadr
 
 💡 O projeto foi desenvolvido com o objetivo de treinar lógica de programação, manipulação de matrizes e domínio das estruturas de controle em C.
 
+📦 Instalação
+
+```bash
+# Clone o repositório
+git clone (https://github.com/llumnee/xadrez.c)
+
+# Entre no diretório
+cd xadrez.c
+
+# Compile o código (para C)
+gcc xadrez.c
+
+# Rode o programa
+./xadrez.c

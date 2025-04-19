@@ -18,12 +18,14 @@ int main () {
 
     {
         
-        printf("A Torre andou uma casa para a vertical para cima.\n");
+        printf("A Torre andou uma casa na a vertical para cima.\n");
 
         torre++;
 
     }
 
+    printf("\n");
+    
 // O Bispo andará 5 casas na diagonal para a direita.
 
     do {
@@ -33,6 +35,8 @@ int main () {
         bispo++;
         
     } while (bispo <= 5); 
+
+    printf("\n");
 
 // A Rainha andará 8 casas na horizonta l para a esquerda.
 

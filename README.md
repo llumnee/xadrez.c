@@ -4,7 +4,7 @@ Este projeto em linguagem C simula movimentações básicas no tabuleiro de xadr
 
 🔧 Recursos do projeto:
 
-- Utilização das estruturas **while, do...while** e for para controle de repetição e lógica de movimentação;
+- Utilização das estruturas **while, do...while e for** para controle de repetição e lógica de movimentação;
 
 - Entrada interativa do usuário para movimentar peças;
 
